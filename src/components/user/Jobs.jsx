@@ -5,6 +5,7 @@ import {
 } from "../../api/apiSlice";
 import { useNavigate } from "react-router-dom";
 
+//this is the jobs page
 const Jobs = () => {
   const navigate = useNavigate();
   const {

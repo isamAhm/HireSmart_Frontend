@@ -3,6 +3,7 @@ import picture1 from "../../assets/picture1.jpg"
 import picture2 from "../../assets/picture2.png"
 import smilingman from "../../assets/smilingman.jpg"
 
+//this is the about page
 const About = () => {
   return (
     <div>
